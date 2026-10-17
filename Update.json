@@ -1,8 +1,14 @@
 {
-  "versionCode": 15,
-  "versionName": "2.1.4",
-  "title": "SONIC NEW UPDATE",
-  "description": "Bug fixes, new UI, and anti-ban improvements.",
-  "apkUrl": "https://www.dropbox.com/scl/fi/em4lte9hc5yggsrbr2d3q/Sonic-Engine.apk?rlkey=vqu81yl2xiduw8ji95u2n0z7f&st=gl6lvvl7&dl=0",
-  "forceUpdate": true
+  "show": true,
+  "force": true,
+  "version_name": "2.0.0",
+  "version_code": 2,
+  "title": "New Update Available! 🚀",
+  "message": "We've added new features and fixed bugs. Update now for the best experience!",
+  "update_url": "https://t.me/UnknownModzOfficial",
+  "changelog": [
+    "✅ New UI design",
+    "🐛 Bug fixes",
+    "⚡️ Performance improvements"
+  ]
 }
