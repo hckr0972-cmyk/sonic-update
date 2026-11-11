@@ -3,13 +3,13 @@
   "force": true,
   "version_name": "2.1.8",
   "version_code": 19,
-  "title": "𓆩SONIC ENGINE NEW UPDATE𓆪",
-  "message": "We've added new features and fixed bugs. Update now for the best experience!",
+  "title": "SONIC ENGINE NEW UPDATE",
+  "message": "We've added new features and fixed bugs. Update now for the best experience!\n\n• New UI\n• Security Updates\n• Bug fixes\n• Performance improvements",
   "update_url": "https://sonicengine.gamer.gd",
   "changelog": [
-    "📱 New Ui",
-    "🔐 Security Updates",
-    "🐛 Bug fixes",
-    "⚡️ Performance improvements"
+    "New UI",
+    "Security Updates",
+    "Bug fixes",
+    "Performance improvements"
   ]
 }
