@@ -1,7 +1,7 @@
 {
   "version_name": "2.1.9",
   "version_code": 20,
-  "message": "নতুন hh আপডেট",
+  "message": "We've added new features and fixed bugs. Update now for the best experience!\n\n• New UI\n• Security Updates\n• Bug fixes\n• Performance improvements",
   "force": false,
-  "update_url": "https://raw.githubusercontent.com/hckr0972-cmyk/sonic-update/main/Sonic%20Engine.apk"
+  "update_url": "https://raw.githubusercontent.com/hckr0972-cmyk/sonic-update/main/app.apk"
 }
