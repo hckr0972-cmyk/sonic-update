@@ -1,10 +1,7 @@
 {
-  "show": true,
-  "force": true,
   "version_name": "2.1.9",
   "version_code": 20,
-  "title": "SONIC ENGINE NEW UPDATE",
-  "message": "We've added new features and fixed bugs. Update now for the best experience!\n\n• New UI\n• Security Updates\n• Bug fixes\n• Performance improvements",
-  "file_size": 16.3,
+  "message": "নতুন আপডেট",
+  "force": false,
   "update_url": "https://raw.githubusercontent.com/hckr0972-cmyk/sonic-update/main/SONIC%20ENGINE%20FINAL.apk"
 }
