@@ -1,6 +1,6 @@
 {
   "show": true,
-  "force": false,
+  "force": true,
   "version_name": "2.1.9",
   "version_code": 20,
   "title": "SONIC ENGINE NEW UPDATE",
